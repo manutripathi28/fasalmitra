@@ -4,7 +4,6 @@ An AI farming assistant for Indian farmers, in Hindi, English and Hinglish.
 
 FasalMitra lets a farmer describe a crop problem, get a crop recommendation, check weather-based advice, or find government schemes, by typing or by speaking. Answers come from Google's Gemini model and are written in the language the farmer used.
 
-🔗 Live demo: [add your deployed link here]
 
 <!-- Add 2-3 screenshots here, e.g.: ![Home](screenshots/home.png) ![Crop problem](screenshots/crop-problem.png) -->
 Why I built it
